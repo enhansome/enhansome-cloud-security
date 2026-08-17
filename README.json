@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:45:17Z",
+            "last_commit": "2026-08-17T18:02:29Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14595
+            "stars": 14610
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8984
+            "stars": 8983
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-13T17:30:38Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8945
+            "stars": 8949
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T14:03:53Z",
+            "last_commit": "2026-08-17T18:44:47Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7914
+            "stars": 7917
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7790
+            "stars": 7793
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
             "repo": "tfsec",
-            "stars": 7027
+            "stars": 7028
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T00:34:33Z",
+            "last_commit": "2026-08-17T06:34:49Z",
             "owner": "cloudquery",
             "repo": "cloudquery",
             "stars": 6481
@@ -112,7 +112,7 @@
             "last_commit": "2024-07-15T08:42:49Z",
             "owner": "duo-labs",
             "repo": "cloudmapper",
-            "stars": 6288
+            "stars": 6289
           }
         },
         {
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:54:47Z",
+            "last_commit": "2026-08-17T18:00:37Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6044
+            "stars": 6046
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5311
+            "stars": 5312
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5303
+            "stars": 5305
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-07-28T11:32:15Z",
             "owner": "aquasecurity",
             "repo": "cloudsploit",
-            "stars": 3763
+            "stars": 3766
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T22:49:21Z",
+            "last_commit": "2026-08-17T05:23:14Z",
             "owner": "projectdiscovery",
             "repo": "cloudlist",
             "stars": 1043
@@ -336,7 +336,7 @@
             "last_commit": "2026-02-09T03:04:44Z",
             "owner": "jonrau1",
             "repo": "ElectricEye",
-            "stars": 1042
+            "stars": 1043
           }
         },
         {
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T08:45:20Z",
+            "last_commit": "2026-08-17T21:36:43Z",
             "owner": "log2timeline",
             "repo": "dftimewolf",
             "stars": 352
@@ -566,7 +566,7 @@
             "last_commit": "2026-08-03T07:39:35Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9277
+            "stars": 9278
           }
         },
         {
@@ -591,7 +591,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-16T09:06:31Z",
+            "last_commit": "2026-08-17T09:13:25Z",
             "owner": "opszero",
             "repo": "terraform-aws-kubespot",
             "stars": 117
@@ -628,7 +628,7 @@
             "last_commit": "2026-08-16T15:09:57Z",
             "owner": "salesforce",
             "repo": "policy_sentry",
-            "stars": 2166
+            "stars": 2167
           }
         },
         {
@@ -794,7 +794,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3695
+            "stars": 3698
           }
         },
         {
@@ -850,7 +850,7 @@
             "last_commit": "2023-10-14T19:09:38Z",
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 786
+            "stars": 787
           }
         },
         {
@@ -952,7 +952,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2418
+            "stars": 2419
           }
         },
         {
@@ -1042,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:35:29.964Z",
+    "last_updated": "2026-08-17T22:39:40.043Z",
     "original_repository": "4ndersonLin/awesome-cloud-security",
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
     "enhanced_repository": "enhansome/enhansome-cloud-security",
