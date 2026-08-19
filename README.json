@@ -1,1049 +1,1128 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Prowler",
-          "description": "Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:02:23Z",
-            "owner": "prowler-cloud",
-            "repo": "prowler",
-            "stars": 14613
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-vault",
-          "description": "A vault for securely storing and accessing AWS credentials in development environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-30T11:28:54Z",
-            "owner": "99designs",
-            "repo": "aws-vault",
-            "stars": 8984
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "checkov",
-          "description": "A static code analysis tool for infrastructure-as-code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T13:10:05Z",
-            "owner": "bridgecrewio",
-            "repo": "checkov",
-            "stars": 8953
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Steampipe",
-          "description": "A Postgres FDW that maps APIs to SQL, plus suites of API plugins and compliance mods for AWS/Azure/GCP and many others.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:31:27Z",
-            "owner": "turbot",
-            "repo": "steampipe",
-            "stars": 7917
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ScoutSuite",
-          "description": "Multi-cloud security auditing tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-23T18:33:52Z",
-            "owner": "nccgroup",
-            "repo": "ScoutSuite",
-            "stars": 7794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tfsec",
-          "description": "Static analysis powered security scanner for Terraform code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-25T08:06:52Z",
-            "owner": "aquasecurity",
-            "repo": "tfsec",
-            "stars": 7027
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudQuery",
-          "description": "Open source cloud asset inventory with set of pre-baked SQL policies for security and compliance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T16:20:40Z",
-            "owner": "cloudquery",
-            "repo": "cloudquery",
-            "stars": 6482
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloudmapper",
-          "description": "Analyze your AWS environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-15T08:42:49Z",
-            "owner": "duo-labs",
-            "repo": "cloudmapper",
-            "stars": 6288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloud-custodian",
-          "description": "Rules engine for cloud security, cost optimization, and governance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:37:40Z",
-            "owner": "cloud-custodian",
-            "repo": "cloud-custodian",
-            "stars": 6047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deepfence ThreatMapper",
-          "description": "Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T08:38:26Z",
-            "owner": "deepfence",
-            "repo": "ThreatMapper",
-            "stars": 5312
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pacu",
-          "description": "The AWS exploitation framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T22:31:37Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "pacu",
-            "stars": 5305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Terrascan",
-          "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-11-20T19:37:10Z",
-            "owner": "tenable",
-            "repo": "terrascan",
-            "stars": 5212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Security Monkey",
-          "description": "Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-02-11T02:32:12Z",
-            "owner": "Netflix",
-            "repo": "security_monkey",
-            "stars": 4371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloudsploit",
-          "description": "Cloud security configuration checks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T11:32:15Z",
-            "owner": "aquasecurity",
-            "repo": "cloudsploit",
-            "stars": 3767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "consoleme",
-          "description": "A Central Control Plane for AWS Permissions and Access",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-03-03T18:38:32Z",
-            "owner": "Netflix",
-            "repo": "consoleme",
-            "stars": 3197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kics",
-          "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T20:59:34Z",
-            "owner": "Checkmarx",
-            "repo": "kics",
-            "stars": 2687
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Matano",
-          "description": "Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-08T04:14:13Z",
-            "owner": "matanolabs",
-            "repo": "matano",
-            "stars": 1694
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PMapper",
-          "description": "A tool for quickly evaluating IAM permissions in AWS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-02T15:38:29Z",
-            "owner": "nccgroup",
-            "repo": "PMapper",
-            "stars": 1574
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pacbot",
-          "description": "Policy as Code Bot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-12-08T16:43:24Z",
-            "owner": "tmobile",
-            "repo": "pacbot",
-            "stars": 1310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Forseti security",
-          "description": "GCP inventory monitoring and policy enforcement tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-06-05T23:47:26Z",
-            "owner": "forseti-security",
-            "repo": "forseti-security",
-            "stars": 1271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws_pwn",
-          "description": "A collection of AWS penetration testing junk",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-30T11:12:51Z",
-            "owner": "dagrz",
-            "repo": "aws_pwn",
-            "stars": 1221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cs suite",
-          "description": "Tool for auditing the security posture of AWS/GCP/Azure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-12-08T00:45:51Z",
-            "owner": "SecurityFTW",
-            "repo": "cs-suite",
-            "stars": 1171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cloudlist",
-          "description": "Listing Assets from multiple Cloud Providers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T05:23:14Z",
-            "owner": "projectdiscovery",
-            "repo": "cloudlist",
-            "stars": 1044
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ElectricEye",
-          "description": "Continuously monitor AWS services for configurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-09T03:04:44Z",
-            "owner": "jonrau1",
-            "repo": "ElectricEye",
-            "stars": 1044
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awspx",
-          "description": "A graph-based tool for visualizing effective access and resource relationships within AWS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-04T10:27:47Z",
-            "owner": "ReversecLabs",
-            "repo": "awspx",
-            "stars": 1018
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zeus",
-          "description": "AWS Auditing & Hardening Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-02-04T11:59:51Z",
-            "owner": "DenizParlak",
-            "repo": "Zeus",
-            "stars": 718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diffy",
-          "description": "Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-11T15:56:41Z",
-            "owner": "Netflix-Skunkworks",
-            "repo": "diffy",
-            "stars": 629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "azucar",
-          "description": "A security auditing tool for Azure environments",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PowerShell",
-            "last_commit": "2022-11-04T17:35:10Z",
-            "owner": "nccgroup",
-            "repo": "azucar",
-            "stars": 585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cloud-forensics-utils",
-          "description": "A python lib for DF & IR on the cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T02:10:20Z",
-            "owner": "google",
-            "repo": "cloud-forensics-utils",
-            "stars": 507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hammer",
-          "description": "A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-17T09:20:09Z",
-            "owner": "dowjones",
-            "repo": "hammer",
-            "stars": 450
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dftimewolf",
-          "description": "A multi-cloud framework for orchestrating forensic collection, processing and data export.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:40:56Z",
-            "owner": "log2timeline",
-            "repo": "dftimewolf",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smogcloud",
-          "description": "Find cloud assets that no one wants exposed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-07-20T20:26:22Z",
-            "owner": "BishopFox",
-            "repo": "smogcloud",
-            "stars": 351
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws_ir",
-          "description": "Python installable command line utility for mitigation of instance and key compromises.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-23T09:00:58Z",
-            "owner": "ThreatResponse",
-            "repo": "aws_ir",
-            "stars": 344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloud-Katana",
-          "description": "Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PowerShell",
-            "last_commit": "2024-03-15T10:44:53Z",
-            "owner": "Azure",
-            "repo": "Cloud-Katana",
-            "stars": 265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-firewall-factory",
-          "description": "Deploy, update, and stage your WAFs while managing them centrally via FMS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-17T19:53:06Z",
-            "owner": "globaldatanet",
-            "repo": "aws-firewall-factory",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloudmarker",
-          "description": "A cloud monitoring tool and framework.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-08-10T08:50:35Z",
-            "owner": "cloudmarker",
-            "repo": "cloudmarker",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloud Sniper",
-          "description": "A platform designed to manage Cloud Security Operations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-17T11:55:23Z",
-            "owner": "cloud-sniper",
-            "repo": "cloud-sniper",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Metabadger",
-          "description": "Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-05-01T17:30:23Z",
-            "owner": "salesforce",
-            "repo": "metabadger",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SkyWrapper",
-          "description": "Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-25T23:23:12Z",
-            "owner": "cyberark",
-            "repo": "SkyWrapper",
-            "stars": 107
-          }
-        }
-      ],
-      "title": "Infrastructure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Falco",
-          "description": "Container runtime security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-03T07:39:35Z",
-            "owner": "falcosecurity",
-            "repo": "falco",
-            "stars": 9281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mkit",
-          "description": "Managed kubernetes inspection tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Dockerfile",
-            "last_commit": "2021-09-16T13:46:12Z",
-            "owner": "darkbitio",
-            "repo": "mkit",
-            "stars": 396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auditkube",
-          "description": "Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2026-08-17T09:13:25Z",
-            "owner": "opszero",
-            "repo": "terraform-aws-kubespot",
-            "stars": 117
-          }
-        }
-      ],
-      "title": "Container"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cloudsplaining",
-          "description": "An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T15:36:30Z",
-            "owner": "salesforce",
-            "repo": "cloudsplaining",
-            "stars": 2243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Policy Sentry",
-          "description": "IAM Least Privilege Policy Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T15:09:57Z",
-            "owner": "salesforce",
-            "repo": "policy_sentry",
-            "stars": 2167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "binaryalert",
-          "description": "Serverless S3 yara scanner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-12T18:28:30Z",
-            "owner": "airbnb",
-            "repo": "binaryalert",
-            "stars": 1454
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SkyArk",
-          "description": "Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2024-12-17T15:34:58Z",
-            "owner": "cyberark",
-            "repo": "SkyArk",
-            "stars": 911
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GCPBucketBrute",
-          "description": "A script to enumerate Google Storage buckets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-26T19:11:42Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "GCPBucketBrute",
-            "stars": 572
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lambda Guard",
-          "description": "AWS Lambda auditing tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-07-13T13:32:24Z",
-            "owner": "Skyscanner",
-            "repo": "LambdaGuard",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Serverless Goat",
-          "description": "A serverless application demonstrating common serverless security flaws.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-30T20:30:42Z",
-            "owner": "OWASP",
-            "repo": "Serverless-Goat",
-            "stars": 330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IAM Zero",
-          "description": "Detects identity and access management issues and automatically suggests least-privilege policies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-03-06T23:54:36Z",
-            "owner": "common-fate",
-            "repo": "iamzero",
-            "stars": 259
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FestIN",
-          "description": "S3 bucket finder and content discover.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-04T09:31:35Z",
-            "owner": "cr0hn",
-            "repo": "festin",
-            "stars": 233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-allowlister",
-          "description": "Automatically compile an AWS Service Control Policy with your preferred compliance frameworks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-07-28T18:16:01Z",
-            "owner": "salesforce",
-            "repo": "aws-allowlister",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloud Guardrails",
-          "description": "Rapidly cherry-pick cloud security guardrails by generating Terraform files that create Azure Policy Initiatives.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HCL",
-            "last_commit": "2025-05-01T17:28:45Z",
-            "owner": "salesforce",
-            "repo": "cloud-guardrails",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Function Shield",
-          "description": "Protection/destection lib of aws lambda and gcp function.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-10-29T17:01:52Z",
-            "owner": "puresec",
-            "repo": "FunctionShield",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "S3 Inspector",
-          "description": "Tool to check AWS S3 bucket permissions.",
-          "children": []
-        }
-      ],
-      "title": "SaaS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cloudgoat",
-          "description": "\"Vulnerable by Design\" AWS deployment tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-28T13:43:43Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "cloudgoat",
-            "stars": 3699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWSGoat",
-          "description": "AWSGoat is a vulnerable by design AWS infrastructure featuring OWASP Top 10 web application security risks (2021) and AWS service based misconfigurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-05-20T09:25:36Z",
-            "owner": "ine-labs",
-            "repo": "AWSGoat",
-            "stars": 2042
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TerraGoat",
-          "description": "Bridgecrew's \"Vulnerable by Design\" Terraform repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2025-07-13T12:11:17Z",
-            "owner": "bridgecrewio",
-            "repo": "terragoat",
-            "stars": 1305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudBrute",
-          "description": "A multiple cloud enumerator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-09T17:48:52Z",
-            "owner": "0xsha",
-            "repo": "CloudBrute",
-            "stars": 1144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sadcloud",
-          "description": "Tool for spinning up insecure AWS infrastructure with Terraform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2023-10-14T19:09:38Z",
-            "owner": "nccgroup",
-            "repo": "sadcloud",
-            "stars": 788
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ccat",
-          "description": "Cloud Container Attack Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-21T08:55:31Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "ccat",
-            "stars": 653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Leonidas",
-          "description": "A framework for executing attacker actions in the cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-28T23:20:58Z",
-            "owner": "ReversecLabs",
-            "repo": "leonidas",
-            "stars": 617
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WrongSecrets",
-          "description": "A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-18T04:13:48Z",
-            "owner": "commjoen",
-            "repo": "wrongsecrets",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Penetration testing/learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AWS-IAM-Privilege-Escalation by RhinoSecurityLabs",
-          "description": "A centralized source of all AWS IAM privilege escalation methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-07-25T18:56:36Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "AWS-IAM-Privilege-Escalation",
-            "stars": 931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ThreatModel for Amazon S3",
-          "description": "Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Open Policy Agent",
-            "last_commit": "2026-08-03T22:33:16Z",
-            "owner": "trustoncloud",
-            "repo": "threatmodel-for-aws-s3",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS security workshops",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prowler",
+              "description": "Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66474729,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:59:12Z",
+                "owner": "prowler-cloud",
+                "repo": "prowler",
+                "stars": 14620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-vault",
+              "description": "A vault for securely storing and accessing AWS credentials in development environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40539602,
+                "language": "Go",
+                "last_commit": "2025-12-30T11:28:54Z",
+                "owner": "99designs",
+                "repo": "aws-vault",
+                "stars": 8984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "checkov",
+              "description": "A static code analysis tool for infrastructure-as-code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224386599,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:20:32Z",
+                "owner": "bridgecrewio",
+                "repo": "checkov",
+                "stars": 8954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Steampipe",
+              "description": "A Postgres FDW that maps APIs to SQL, plus suites of API plugins and compliance mods for AWS/Azure/GCP and many others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330405184,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:31:27Z",
+                "owner": "turbot",
+                "repo": "steampipe",
+                "stars": 7919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScoutSuite",
+              "description": "Multi-cloud security auditing tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155376283,
+                "language": "Python",
+                "last_commit": "2025-09-23T18:33:52Z",
+                "owner": "nccgroup",
+                "repo": "ScoutSuite",
+                "stars": 7795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tfsec",
+              "description": "Static analysis powered security scanner for Terraform code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173785481,
+                "language": "Go",
+                "last_commit": "2026-03-25T08:06:52Z",
+                "owner": "aquasecurity",
+                "repo": "tfsec",
+                "stars": 7027
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudQuery",
+              "description": "Open source cloud asset inventory with set of pre-baked SQL policies for security and compliance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313853293,
+                "language": "Go",
+                "last_commit": "2026-08-18T16:20:40Z",
+                "owner": "cloudquery",
+                "repo": "cloudquery",
+                "stars": 6483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudmapper",
+              "description": "Analyze your AWS environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118159195,
+                "language": "JavaScript",
+                "last_commit": "2024-07-15T08:42:49Z",
+                "owner": "duo-labs",
+                "repo": "cloudmapper",
+                "stars": 6288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud-custodian",
+              "description": "Rules engine for cloud security, cost optimization, and governance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52837350,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:37:40Z",
+                "owner": "cloud-custodian",
+                "repo": "cloud-custodian",
+                "stars": 6047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deepfence ThreatMapper",
+              "description": "Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238662977,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T08:38:26Z",
+                "owner": "deepfence",
+                "repo": "ThreatMapper",
+                "stars": 5312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pacu",
+              "description": "The AWS exploitation framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137276052,
+                "language": "Python",
+                "last_commit": "2026-05-19T22:31:37Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "pacu",
+                "stars": 5305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Terrascan",
+              "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 103084166,
+                "language": "Go",
+                "last_commit": "2025-11-20T19:37:10Z",
+                "owner": "tenable",
+                "repo": "terrascan",
+                "stars": 5212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Security Monkey",
+              "description": "Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 21290287,
+                "language": "Python",
+                "last_commit": "2021-02-11T02:32:12Z",
+                "owner": "Netflix",
+                "repo": "security_monkey",
+                "stars": 4371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudsploit",
+              "description": "Cloud security configuration checks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38255391,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T11:32:15Z",
+                "owner": "aquasecurity",
+                "repo": "cloudsploit",
+                "stars": 3767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "consoleme",
+              "description": "A Central Control Plane for AWS Permissions and Access",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 221489076,
+                "language": "Python",
+                "last_commit": "2026-03-03T18:38:32Z",
+                "owner": "Netflix",
+                "repo": "consoleme",
+                "stars": 3197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kics",
+              "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278200746,
+                "language": "Open Policy Agent",
+                "last_commit": "2026-08-19T10:47:53Z",
+                "owner": "Checkmarx",
+                "repo": "kics",
+                "stars": 2688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Matano",
+              "description": "Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510034344,
+                "language": "Rust",
+                "last_commit": "2025-01-08T04:14:13Z",
+                "owner": "matanolabs",
+                "repo": "matano",
+                "stars": 1694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PMapper",
+              "description": "A tool for quickly evaluating IAM permissions in AWS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134493334,
+                "language": "Python",
+                "last_commit": "2024-08-02T15:38:29Z",
+                "owner": "nccgroup",
+                "repo": "PMapper",
+                "stars": 1574
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pacbot",
+              "description": "Policy as Code Bot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149351086,
+                "language": "Java",
+                "last_commit": "2022-12-08T16:43:24Z",
+                "owner": "tmobile",
+                "repo": "pacbot",
+                "stars": 1310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Forseti security",
+              "description": "GCP inventory monitoring and policy enforcement tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 82210080,
+                "language": "Python",
+                "last_commit": "2023-06-05T23:47:26Z",
+                "owner": "forseti-security",
+                "repo": "forseti-security",
+                "stars": 1271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws_pwn",
+              "description": "A collection of AWS penetration testing junk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71204465,
+                "language": "Python",
+                "last_commit": "2023-08-30T11:12:51Z",
+                "owner": "dagrz",
+                "repo": "aws_pwn",
+                "stars": 1221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cs suite",
+              "description": "Tool for auditing the security posture of AWS/GCP/Azure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100479774,
+                "language": "Shell",
+                "last_commit": "2022-12-08T00:45:51Z",
+                "owner": "SecurityFTW",
+                "repo": "cs-suite",
+                "stars": 1171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cloudlist",
+              "description": "Listing Assets from multiple Cloud Providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307108461,
+                "language": "Go",
+                "last_commit": "2026-08-17T05:23:14Z",
+                "owner": "projectdiscovery",
+                "repo": "cloudlist",
+                "stars": 1044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ElectricEye",
+              "description": "Continuously monitor AWS services for configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238931093,
+                "language": "Python",
+                "last_commit": "2026-02-09T03:04:44Z",
+                "owner": "jonrau1",
+                "repo": "ElectricEye",
+                "stars": 1044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awspx",
+              "description": "A graph-based tool for visualizing effective access and resource relationships within AWS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225895956,
+                "language": "Python",
+                "last_commit": "2022-10-04T10:27:47Z",
+                "owner": "ReversecLabs",
+                "repo": "awspx",
+                "stars": 1018
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zeus",
+              "description": "AWS Auditing & Hardening Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96040095,
+                "language": "Shell",
+                "last_commit": "2020-02-04T11:59:51Z",
+                "owner": "DenizParlak",
+                "repo": "Zeus",
+                "stars": 718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diffy",
+              "description": "Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131768423,
+                "language": "Python",
+                "last_commit": "2024-01-11T15:56:41Z",
+                "owner": "Netflix-Skunkworks",
+                "repo": "diffy",
+                "stars": 629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "azucar",
+              "description": "A security auditing tool for Azure environments",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 128070848,
+                "language": "PowerShell",
+                "last_commit": "2022-11-04T17:35:10Z",
+                "owner": "nccgroup",
+                "repo": "azucar",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cloud-forensics-utils",
+              "description": "A python lib for DF & IR on the cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238205900,
+                "language": "Python",
+                "last_commit": "2026-08-12T02:10:20Z",
+                "owner": "google",
+                "repo": "cloud-forensics-utils",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hammer",
+              "description": "A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141596594,
+                "language": "Python",
+                "last_commit": "2023-07-17T09:20:09Z",
+                "owner": "dowjones",
+                "repo": "hammer",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dftimewolf",
+              "description": "A multi-cloud framework for orchestrating forensic collection, processing and data export.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64484320,
+                "language": "Python",
+                "last_commit": "2026-08-18T08:40:56Z",
+                "owner": "log2timeline",
+                "repo": "dftimewolf",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smogcloud",
+              "description": "Find cloud assets that no one wants exposed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234183756,
+                "language": "Go",
+                "last_commit": "2020-07-20T20:26:22Z",
+                "owner": "BishopFox",
+                "repo": "smogcloud",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws_ir",
+              "description": "Python installable command line utility for mitigation of instance and key compromises.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63271084,
+                "language": "Python",
+                "last_commit": "2021-07-23T09:00:58Z",
+                "owner": "ThreatResponse",
+                "repo": "aws_ir",
+                "stars": 344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud-Katana",
+              "description": "Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 387658652,
+                "language": "PowerShell",
+                "last_commit": "2024-03-15T10:44:53Z",
+                "owner": "Azure",
+                "repo": "Cloud-Katana",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-firewall-factory",
+              "description": "Deploy, update, and stage your WAFs while managing them centrally via FMS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424974259,
+                "language": "TypeScript",
+                "last_commit": "2025-11-17T19:53:06Z",
+                "owner": "globaldatanet",
+                "repo": "aws-firewall-factory",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudmarker",
+              "description": "A cloud monitoring tool and framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 161901782,
+                "language": "Python",
+                "last_commit": "2024-08-10T08:50:35Z",
+                "owner": "cloudmarker",
+                "repo": "cloudmarker",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud Sniper",
+              "description": "A platform designed to manage Cloud Security Operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210739453,
+                "language": "Python",
+                "last_commit": "2024-04-17T11:55:23Z",
+                "owner": "cloud-sniper",
+                "repo": "cloud-sniper",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metabadger",
+              "description": "Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 361001967,
+                "language": "Python",
+                "last_commit": "2025-05-01T17:30:23Z",
+                "owner": "salesforce",
+                "repo": "metabadger",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SkyWrapper",
+              "description": "Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210603207,
+                "language": "Python",
+                "last_commit": "2021-03-25T23:23:12Z",
+                "owner": "cyberark",
+                "repo": "SkyWrapper",
+                "stars": 107
+              }
+            }
+          ],
           "description": null,
-          "children": []
-        }
-      ],
-      "title": "AWS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MicroBurst by NetSPI",
-          "description": "A collection of scripts for assessing Microsoft Azure security",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-06-29T14:43:59Z",
-            "owner": "NetSPI",
-            "repo": "MicroBurst",
-            "stars": 2420
-          }
+          "node_type": "group",
+          "title": "Infrastructure"
         },
         {
-          "node_type": "item",
-          "title": "Azure security center workflow automation",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Falco",
+              "description": "Container runtime security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49986046,
+                "language": "C++",
+                "last_commit": "2026-08-03T07:39:35Z",
+                "owner": "falcosecurity",
+                "repo": "falco",
+                "stars": 9281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mkit",
+              "description": "Managed kubernetes inspection tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 250376894,
+                "language": "Dockerfile",
+                "last_commit": "2021-09-16T13:46:12Z",
+                "owner": "darkbitio",
+                "repo": "mkit",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auditkube",
+              "description": "Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87684006,
+                "language": "HCL",
+                "last_commit": "2026-08-17T09:13:25Z",
+                "owner": "opszero",
+                "repo": "terraform-aws-kubespot",
+                "stars": 117
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-07-09T17:31:42Z",
-            "owner": "Azure",
-            "repo": "Microsoft-Defender-for-Cloud",
-            "stars": 1929
-          }
-        }
-      ],
-      "title": "Azure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Security response automation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-09-14T17:27:03Z",
-            "owner": "GoogleCloudPlatform",
-            "repo": "security-response-automation",
-            "stars": 216
-          }
+          "node_type": "group",
+          "title": "Container"
         },
         {
-          "node_type": "item",
-          "title": "GKE security scenarios demo",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cloudsplaining",
+              "description": "An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256772852,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T15:36:30Z",
+                "owner": "salesforce",
+                "repo": "cloudsplaining",
+                "stars": 2243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Policy Sentry",
+              "description": "IAM Least Privilege Policy Generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209652627,
+                "language": "Python",
+                "last_commit": "2026-08-16T15:09:57Z",
+                "owner": "salesforce",
+                "repo": "policy_sentry",
+                "stars": 2167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "binaryalert",
+              "description": "Serverless S3 yara scanner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97053386,
+                "language": "Python",
+                "last_commit": "2023-12-12T18:28:30Z",
+                "owner": "airbnb",
+                "repo": "binaryalert",
+                "stars": 1454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SkyArk",
+              "description": "Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125351578,
+                "language": "PowerShell",
+                "last_commit": "2024-12-17T15:34:58Z",
+                "owner": "cyberark",
+                "repo": "SkyArk",
+                "stars": 911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GCPBucketBrute",
+              "description": "A script to enumerate Google Storage buckets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172634627,
+                "language": "Python",
+                "last_commit": "2023-05-26T19:11:42Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "GCPBucketBrute",
+                "stars": 572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lambda Guard",
+              "description": "AWS Lambda auditing tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 184101777,
+                "language": "Python",
+                "last_commit": "2022-07-13T13:32:24Z",
+                "owner": "Skyscanner",
+                "repo": "LambdaGuard",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Serverless Goat",
+              "description": "A serverless application demonstrating common serverless security flaws.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162155667,
+                "language": "Python",
+                "last_commit": "2024-07-30T20:30:42Z",
+                "owner": "OWASP",
+                "repo": "Serverless-Goat",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IAM Zero",
+              "description": "Detects identity and access management issues and automatically suggests least-privilege policies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366972557,
+                "language": "Go",
+                "last_commit": "2023-03-06T23:54:36Z",
+                "owner": "common-fate",
+                "repo": "iamzero",
+                "stars": 259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FestIN",
+              "description": "S3 bucket finder and content discover.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272970751,
+                "language": "Python",
+                "last_commit": "2020-12-04T09:31:35Z",
+                "owner": "cr0hn",
+                "repo": "festin",
+                "stars": 233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-allowlister",
+              "description": "Automatically compile an AWS Service Control Policy with your preferred compliance frameworks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 331116098,
+                "language": "Python",
+                "last_commit": "2026-07-28T18:16:01Z",
+                "owner": "salesforce",
+                "repo": "aws-allowlister",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud Guardrails",
+              "description": "Rapidly cherry-pick cloud security guardrails by generating Terraform files that create Azure Policy Initiatives.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 345784883,
+                "language": "HCL",
+                "last_commit": "2025-05-01T17:28:45Z",
+                "owner": "salesforce",
+                "repo": "cloud-guardrails",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Function Shield",
+              "description": "Protection/destection lib of aws lambda and gcp function.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169050843,
+                "language": null,
+                "last_commit": "2019-10-29T17:01:52Z",
+                "owner": "puresec",
+                "repo": "FunctionShield",
+                "stars": 40
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HCL",
-            "last_commit": "2024-08-15T20:10:40Z",
-            "owner": "GoogleCloudPlatform",
-            "repo": "gke-security-scenarios-demo",
-            "stars": 93
-          }
-        }
-      ],
-      "title": "GCP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Appsecco provides training",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2022-11-26T06:19:59Z",
-            "owner": "appsecco",
-            "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
-            "stars": 952
-          }
+          "node_type": "group",
+          "title": "SaaS"
         },
         {
-          "node_type": "item",
-          "title": "Cloud Security Research by RhinoSecurityLabs",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cloudgoat",
+              "description": "\"Vulnerable by Design\" AWS deployment tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141209050,
+                "language": "Python",
+                "last_commit": "2026-04-28T13:43:43Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "cloudgoat",
+                "stars": 3701
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWSGoat",
+              "description": "AWSGoat is a vulnerable by design AWS infrastructure featuring OWASP Top 10 web application security risks (2021) and AWS service based misconfigurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513468803,
+                "language": "PHP",
+                "last_commit": "2025-05-20T09:25:36Z",
+                "owner": "ine-labs",
+                "repo": "AWSGoat",
+                "stars": 2042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TerraGoat",
+              "description": "Bridgecrew's \"Vulnerable by Design\" Terraform repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250592027,
+                "language": "HCL",
+                "last_commit": "2025-07-13T12:11:17Z",
+                "owner": "bridgecrewio",
+                "repo": "terragoat",
+                "stars": 1305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudBrute",
+              "description": "A multiple cloud enumerator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294051203,
+                "language": "Go",
+                "last_commit": "2025-03-09T17:48:52Z",
+                "owner": "0xsha",
+                "repo": "CloudBrute",
+                "stars": 1144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sadcloud",
+              "description": "Tool for spinning up insecure AWS infrastructure with Terraform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214713418,
+                "language": "HCL",
+                "last_commit": "2023-10-14T19:09:38Z",
+                "owner": "nccgroup",
+                "repo": "sadcloud",
+                "stars": 788
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ccat",
+              "description": "Cloud Container Attack Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200438613,
+                "language": "Python",
+                "last_commit": "2019-11-21T08:55:31Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "ccat",
+                "stars": 653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leonidas",
+              "description": "A framework for executing attacker actions in the cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274744266,
+                "language": "Python",
+                "last_commit": "2024-11-28T23:20:58Z",
+                "owner": "ReversecLabs",
+                "repo": "leonidas",
+                "stars": 617
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WrongSecrets",
+              "description": "A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1214062756,
+                "language": null,
+                "last_commit": "2026-04-18T04:13:48Z",
+                "owner": "commjoen",
+                "repo": "wrongsecrets",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-23T18:58:24Z",
-            "owner": "RhinoSecurityLabs",
-            "repo": "Cloud-Security-Research",
-            "stars": 392
-          }
+          "node_type": "group",
+          "title": "Penetration testing/learning"
         }
       ],
-      "title": "Others"
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS-IAM-Privilege-Escalation by RhinoSecurityLabs",
+              "description": "A centralized source of all AWS IAM privilege escalation methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198320410,
+                "language": null,
+                "last_commit": "2019-07-25T18:56:36Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "AWS-IAM-Privilege-Escalation",
+                "stars": 931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThreatModel for Amazon S3",
+              "description": "Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397028827,
+                "language": "Open Policy Agent",
+                "last_commit": "2026-08-03T22:33:16Z",
+                "owner": "trustoncloud",
+                "repo": "threatmodel-for-aws-s3",
+                "stars": 167
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MicroBurst by NetSPI",
+              "description": "A collection of scripts for assessing Microsoft Azure security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141166681,
+                "language": "PowerShell",
+                "last_commit": "2026-06-29T14:43:59Z",
+                "owner": "NetSPI",
+                "repo": "MicroBurst",
+                "stars": 2420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure security center workflow automation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184655500,
+                "language": "PowerShell",
+                "last_commit": "2026-07-09T17:31:42Z",
+                "owner": "Azure",
+                "repo": "Microsoft-Defender-for-Cloud",
+                "stars": 1929
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Azure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Security response automation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 207355308,
+                "language": "Go",
+                "last_commit": "2023-09-14T17:27:03Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "security-response-automation",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GKE security scenarios demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 142068424,
+                "language": "HCL",
+                "last_commit": "2024-08-15T20:10:40Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "gke-security-scenarios-demo",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GCP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appsecco provides training",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254317084,
+                "language": "CSS",
+                "last_commit": "2022-11-26T06:19:59Z",
+                "owner": "appsecco",
+                "repo": "breaking-and-pwning-apps-and-servers-aws-azure-training",
+                "stars": 952
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud Security Research by RhinoSecurityLabs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190816319,
+                "language": "Python",
+                "last_commit": "2020-04-23T18:58:24Z",
+                "owner": "RhinoSecurityLabs",
+                "repo": "Cloud-Security-Research",
+                "stars": 392
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
+      "title": "Reading Materials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:40:24.971Z",
+    "last_updated": "2026-08-19T12:22:40.873Z",
     "original_repository": "4ndersonLin/awesome-cloud-security",
+    "original_repository_id": 262716319,
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
     "enhanced_repository": "enhansome/enhansome-cloud-security",
     "enhanced_repository_description": null,
