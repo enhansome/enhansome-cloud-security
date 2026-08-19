@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:59:12Z",
+                "last_commit": "2026-08-19T16:03:26Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14620
+                "stars": 14624
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 224386599,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:20:32Z",
+                "last_commit": "2026-08-19T16:36:52Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8954
+                "stars": 8955
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 313853293,
                 "language": "Go",
-                "last_commit": "2026-08-18T16:20:40Z",
+                "last_commit": "2026-08-19T22:30:48Z",
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6483
+                "stars": 6484
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-18T17:37:40Z",
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6047
+                "stars": 6048
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2025-11-20T19:37:10Z",
                 "owner": "tenable",
                 "repo": "terrascan",
-                "stars": 5212
+                "stars": 5211
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-07-28T11:32:15Z",
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3767
+                "stars": 3768
               }
             },
             {
@@ -239,7 +239,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-19T10:47:53Z",
+                "last_commit": "2026-08-19T14:03:41Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2688
@@ -317,7 +317,7 @@
                 "last_commit": "2023-08-30T11:12:51Z",
                 "owner": "dagrz",
                 "repo": "aws_pwn",
-                "stars": 1221
+                "stars": 1223
               }
             },
             {
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-03T07:39:35Z",
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9281
+                "stars": 9284
               }
             },
             {
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:40.873Z",
+    "last_updated": "2026-08-19T22:39:49.843Z",
     "original_repository": "4ndersonLin/awesome-cloud-security",
     "original_repository_id": 262716319,
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
