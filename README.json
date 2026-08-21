@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:59:55Z",
+                "last_commit": "2026-08-21T13:29:57Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14633
+                "stars": 14643
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-30T11:28:54Z",
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8984
+                "stars": 8985
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 224386599,
                 "language": "Python",
-                "last_commit": "2026-08-20T09:39:28Z",
+                "last_commit": "2026-08-20T23:05:22Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8961
+                "stars": 8966
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 330405184,
                 "language": "Go",
-                "last_commit": "2026-08-18T08:31:27Z",
+                "last_commit": "2026-08-21T08:12:06Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7919
+                "stars": 7921
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7793
+                "stars": 7795
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-20T13:17:34Z",
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6487
+                "stars": 6488
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2024-07-15T08:42:49Z",
                 "owner": "duo-labs",
                 "repo": "cloudmapper",
-                "stars": 6287
+                "stars": 6288
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 52837350,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:37:40Z",
+                "last_commit": "2026-08-21T01:27:50Z",
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6050
+                "stars": 6051
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-06-01T08:38:26Z",
                 "owner": "deepfence",
                 "repo": "ThreatMapper",
-                "stars": 5314
+                "stars": 5317
               }
             },
             {
@@ -239,10 +239,10 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-20T16:45:31Z",
+                "last_commit": "2026-08-21T14:27:36Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2689
+                "stars": 2691
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2024-08-02T15:38:29Z",
                 "owner": "nccgroup",
                 "repo": "PMapper",
-                "stars": 1574
+                "stars": 1575
               }
             },
             {
@@ -337,6 +337,21 @@
             },
             {
               "node_type": "item",
+              "title": "cloudlist",
+              "description": "Listing Assets from multiple Cloud Providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307108461,
+                "language": "Go",
+                "last_commit": "2026-08-17T05:23:14Z",
+                "owner": "projectdiscovery",
+                "repo": "cloudlist",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
               "title": "ElectricEye",
               "description": "Continuously monitor AWS services for configurations.",
               "children": [],
@@ -348,21 +363,6 @@
                 "owner": "jonrau1",
                 "repo": "ElectricEye",
                 "stars": 1045
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "cloudlist",
-              "description": "Listing Assets from multiple Cloud Providers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 307108461,
-                "language": "Go",
-                "last_commit": "2026-08-17T05:23:14Z",
-                "owner": "projectdiscovery",
-                "repo": "cloudlist",
-                "stars": 1044
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2022-11-04T17:35:10Z",
                 "owner": "nccgroup",
                 "repo": "azucar",
-                "stars": 585
+                "stars": 586
               }
             },
             {
@@ -464,7 +464,7 @@
                 "archived": false,
                 "id": 64484320,
                 "language": "Python",
-                "last_commit": "2026-08-18T08:40:56Z",
+                "last_commit": "2026-08-21T09:34:53Z",
                 "owner": "log2timeline",
                 "repo": "dftimewolf",
                 "stars": 352
@@ -482,7 +482,7 @@
                 "last_commit": "2020-07-20T20:26:22Z",
                 "owner": "BishopFox",
                 "repo": "smogcloud",
-                "stars": 351
+                "stars": 352
               }
             },
             {
@@ -981,7 +981,7 @@
                 "last_commit": "2019-07-25T18:56:36Z",
                 "owner": "RhinoSecurityLabs",
                 "repo": "AWS-IAM-Privilege-Escalation",
-                "stars": 931
+                "stars": 932
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2420
+                "stars": 2421
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2026-07-09T17:31:42Z",
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1928
+                "stars": 1929
               }
             }
           ],
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:44:27.675Z",
+    "last_updated": "2026-08-21T22:40:18.211Z",
     "original_repository": "4ndersonLin/awesome-cloud-security",
     "original_repository_id": 262716319,
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
