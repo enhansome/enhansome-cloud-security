@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:16:24Z",
+                "last_commit": "2026-08-24T19:26:07Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14666
+                "stars": 14668
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-23T09:51:59Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8971
+                "stars": 8972
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-24T02:12:00Z",
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7925
+                "stars": 7929
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7798
+                "stars": 7799
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 313853293,
                 "language": "Go",
-                "last_commit": "2026-08-24T06:46:32Z",
+                "last_commit": "2026-08-24T18:27:46Z",
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6492
+                "stars": 6493
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-22T14:22:57Z",
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6052
+                "stars": 6053
               }
             },
             {
@@ -239,7 +239,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-24T10:03:09Z",
+                "last_commit": "2026-08-24T21:17:19Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2693
@@ -457,21 +457,6 @@
             },
             {
               "node_type": "item",
-              "title": "dftimewolf",
-              "description": "A multi-cloud framework for orchestrating forensic collection, processing and data export.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 64484320,
-                "language": "Python",
-                "last_commit": "2026-08-21T09:34:53Z",
-                "owner": "log2timeline",
-                "repo": "dftimewolf",
-                "stars": 352
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Smogcloud",
               "description": "Find cloud assets that no one wants exposed.",
               "children": [],
@@ -482,6 +467,21 @@
                 "last_commit": "2020-07-20T20:26:22Z",
                 "owner": "BishopFox",
                 "repo": "smogcloud",
+                "stars": 353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dftimewolf",
+              "description": "A multi-cloud framework for orchestrating forensic collection, processing and data export.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64484320,
+                "language": "Python",
+                "last_commit": "2026-08-21T09:34:53Z",
+                "owner": "log2timeline",
+                "repo": "dftimewolf",
                 "stars": 352
               }
             },
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-03T07:39:35Z",
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9298
+                "stars": 9299
               }
             },
             {
@@ -1047,7 +1047,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2423
+                "stars": 2424
               }
             },
             {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:31.218Z",
+    "last_updated": "2026-08-24T22:43:23.534Z",
     "original_repository": "4ndersonLin/awesome-cloud-security",
     "original_repository_id": 262716319,
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
