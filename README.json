@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-22T20:33:52Z",
+                "last_commit": "2026-08-24T13:16:24Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14660
+                "stars": 14666
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-30T11:28:54Z",
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8985
+                "stars": 8984
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-23T09:51:59Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8970
+                "stars": 8971
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 330405184,
                 "language": "Go",
-                "last_commit": "2026-08-21T08:12:06Z",
+                "last_commit": "2026-08-24T02:12:00Z",
                 "owner": "turbot",
                 "repo": "steampipe",
                 "stars": 7925
@@ -77,7 +77,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7796
+                "stars": 7798
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-03-25T08:06:52Z",
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7031
+                "stars": 7032
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 313853293,
                 "language": "Go",
-                "last_commit": "2026-08-22T01:10:48Z",
+                "last_commit": "2026-08-24T06:46:32Z",
                 "owner": "cloudquery",
                 "repo": "cloudquery",
                 "stars": 6492
@@ -167,7 +167,7 @@
                 "last_commit": "2026-05-19T22:31:37Z",
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5307
+                "stars": 5308
               }
             },
             {
@@ -239,10 +239,10 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-23T08:04:11Z",
+                "last_commit": "2026-08-24T10:03:09Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2692
+                "stars": 2693
               }
             },
             {
@@ -392,7 +392,7 @@
                 "last_commit": "2020-02-04T11:59:51Z",
                 "owner": "DenizParlak",
                 "repo": "Zeus",
-                "stars": 718
+                "stars": 719
               }
             },
             {
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-03T07:39:35Z",
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9294
+                "stars": 9298
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2026-04-28T13:43:43Z",
                 "owner": "RhinoSecurityLabs",
                 "repo": "cloudgoat",
-                "stars": 3703
+                "stars": 3704
               }
             },
             {
@@ -960,6 +960,35 @@
           "description": null,
           "node_type": "group",
           "title": "Penetration testing/learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "AWS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ThreatMapper",
+                  "description": "Identify vulnerabilities in running containers, images, hosts and repositories.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238662977,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-01T08:38:26Z",
+                    "owner": "deepfence",
+                    "repo": "ThreatMapper",
+                    "stars": 5318
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Native tools"
         }
       ],
       "title": "Tools"
@@ -1018,7 +1047,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2422
+                "stars": 2423
               }
             },
             {
@@ -1033,7 +1062,7 @@
                 "last_commit": "2026-07-09T17:31:42Z",
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1929
+                "stars": 1930
               }
             }
           ],
@@ -1120,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:37:04.341Z",
+    "last_updated": "2026-08-24T14:02:31.218Z",
     "original_repository": "4ndersonLin/awesome-cloud-security",
     "original_repository_id": 262716319,
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
