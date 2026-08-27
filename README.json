@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:49:07Z",
+                "last_commit": "2026-08-27T11:28:19Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14688
+                "stars": 14692
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-27T00:07:25Z",
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8973
+                "stars": 8972
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7801
+                "stars": 7802
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 313853293,
                 "language": "Go",
-                "last_commit": "2026-08-26T14:44:13Z",
+                "last_commit": "2026-08-27T09:02:55Z",
                 "owner": "cloudquery",
                 "repo": "cloudquery",
                 "stars": 6497
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-03T07:39:35Z",
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9305
+                "stars": 9309
               }
             },
             {
@@ -1149,9 +1149,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:17:45.674Z",
-    "original_repository": "4ndersonLin/awesome-cloud-security",
-    "original_repository_id": 262716319,
+    "last_updated": "2026-08-27T11:31:08.992Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 262716319,
+      "language": null,
+      "last_commit": "2026-03-17T02:09:12Z",
+      "owner": "4ndersonLin",
+      "repo": "awesome-cloud-security",
+      "stars": 2483
+    },
     "original_repository_sha": "90afa15b61c4aa2e50e3b497b58cb5dd1d95ec2e",
     "enhanced_repository": "enhansome/enhansome-cloud-security",
     "enhanced_repository_description": null,
