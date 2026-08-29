@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:17:40Z",
-                "open_issues": 336,
+                "open_issues": 337,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
                 "stars": 14713,
@@ -198,7 +198,7 @@
                 "open_issues": 18,
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7034,
+                "stars": 7035,
                 "topics": [
                   "aws",
                   "azure",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:42:39.812Z",
+    "last_updated": "2026-08-29T04:22:30.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
