@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:17:40Z",
-                "open_issues": 337,
+                "open_issues": 339,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14713,
+                "stars": 14715,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8986,
+                "stars": 8984,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -170,7 +170,7 @@
                 "open_issues": 296,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7803,
+                "stars": 7804,
                 "topics": [
                   "auditing",
                   "aws",
@@ -239,7 +239,7 @@
                 "open_issues": 167,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6502,
+                "stars": 6503,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -488,7 +488,7 @@
                 "open_issues": 214,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3768,
+                "stars": 3769,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -547,7 +547,7 @@
                 "open_issues": 315,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2696,
+                "stars": 2697,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -712,7 +712,7 @@
                 "open_issues": 3,
                 "owner": "dagrz",
                 "repo": "aws_pwn",
-                "stars": 1223,
+                "stars": 1222,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 65,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9312,
+                "stars": 9313,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1293,7 +1293,7 @@
                 "id": 87684006,
                 "language": "HCL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T12:49:53Z",
+                "last_commit": "2026-08-29T09:01:39Z",
                 "open_issues": 2,
                 "owner": "opszero",
                 "repo": "terraform-aws-kubespot",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:30.207Z",
+    "last_updated": "2026-08-30T00:19:02.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
