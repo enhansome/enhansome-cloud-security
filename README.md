@@ -49,15 +49,15 @@ A curated list of awesome cloud security related resources.
 
 ## Infrastructure
 
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,715 | 🐛 339 | 🌐 Python | 📅 2026-08-28: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-* [aws-vault](https://github.com/99designs/aws-vault) ⭐ 8,984 | 🐛 2 | 🌐 Go | 📅 2025-12-30: A vault for securely storing and accessing AWS credentials in development environments.
-* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,975 | 🐛 167 | 🌐 Python | 📅 2026-08-27: A static code analysis tool for infrastructure-as-code.
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,720 | 🐛 350 | 🌐 Python | 📅 2026-08-28: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [aws-vault](https://github.com/99designs/aws-vault) ⭐ 8,985 | 🐛 2 | 🌐 Go | 📅 2025-12-30: A vault for securely storing and accessing AWS credentials in development environments.
+* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,976 | 🐛 166 | 🌐 Python | 📅 2026-08-30: A static code analysis tool for infrastructure-as-code.
 * [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,936 | 🐛 16 | 🌐 Go | 📅 2026-08-24: A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,804 | 🐛 296 | 🌐 Python | 📅 2025-09-23: Multi-cloud security auditing tool.
-* [tfsec](https://github.com/liamg/tfsec) ⭐ 7,035 | 🐛 18 | 🌐 Go | 📅 2026-03-25: Static analysis powered security scanner for Terraform code.
-* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,503 | 🐛 167 | 🌐 Go | 📅 2026-08-29: Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,805 | 🐛 296 | 🌐 Python | 📅 2025-09-23: Multi-cloud security auditing tool.
+* [tfsec](https://github.com/liamg/tfsec) ⭐ 7,034 | 🐛 18 | 🌐 Go | 📅 2026-03-25: Static analysis powered security scanner for Terraform code.
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,503 | 🐛 167 | 🌐 Go | 📅 2026-08-30: Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,290 | 🐛 210 | 🌐 JavaScript | 📅 2024-07-15: Analyze your AWS environments.
-* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,054 | 🐛 1,741 | 🌐 Python | 📅 2026-08-27: Rules engine for cloud security, cost optimization, and governance.
+* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,055 | 🐛 1,741 | 🌐 Python | 📅 2026-08-27: Rules engine for cloud security, cost optimization, and governance.
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,318 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01: Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,313 | 🐛 37 | 🌐 Python | 📅 2026-05-19: The AWS exploitation framework.
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -69,7 +69,7 @@ A curated list of awesome cloud security related resources.
 * [PMapper](https://github.com/nccgroup/PMapper) ⭐ 1,576 | 🐛 36 | 🌐 Python | 📅 2024-08-02: A tool for quickly evaluating IAM permissions in AWS.
 * [pacbot](https://github.com/tmobile/pacbot) ⭐ 1,310 | 🐛 138 | 🌐 Java | 📅 2022-12-08: Policy as Code Bot.
 * [Forseti security](https://github.com/forseti-security/forseti-security) ⚠️ Archived: GCP inventory monitoring and policy enforcement tool.
-* [aws\_pwn](https://github.com/dagrz/aws_pwn) ⭐ 1,222 | 🐛 3 | 🌐 Python | 📅 2023-08-30: A collection of AWS penetration testing junk
+* [aws\_pwn](https://github.com/dagrz/aws_pwn) ⭐ 1,223 | 🐛 3 | 🌐 Python | 📅 2023-08-30: A collection of AWS penetration testing junk
 * [cs suite](https://github.com/SecurityFTW/cs-suite) ⭐ 1,171 | 🐛 41 | 🌐 Shell | 📅 2022-12-08: Tool for auditing the security posture of AWS/GCP/Azure.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist) ⭐ 1,049 | 🐛 4 | 🌐 Go | 📅 2026-08-27: Listing Assets from multiple Cloud Providers.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye) ⭐ 1,045 | 🐛 14 | 🌐 Python | 📅 2026-02-09: Continuously monitor AWS services for configurations.
@@ -93,9 +93,9 @@ A curated list of awesome cloud security related resources.
 
 ## Container
 
-* [Falco](https://github.com/falcosecurity/falco) ⭐ 9,313 | 🐛 65 | 🌐 C++ | 📅 2026-08-03: Container runtime security.
+* [Falco](https://github.com/falcosecurity/falco) ⭐ 9,316 | 🐛 65 | 🌐 C++ | 📅 2026-08-03: Container runtime security.
 * [mkit](https://github.com/darkbitio/mkit) ⚠️ Archived: Managed kubernetes inspection tool.
-* [auditkube](https://github.com/opszero/auditkube) ⭐ 117 | 🐛 2 | 🌐 HCL | 📅 2026-08-29: Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
+* [auditkube](https://github.com/opszero/auditkube) ⭐ 117 | 🐛 2 | 🌐 HCL | 📅 2026-08-30: Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
 
 ## SaaS
@@ -198,7 +198,7 @@ A curated list of awesome cloud security related resources.
 
 ## Azure
 
-1. [MicroBurst by NetSPI](https://github.com/NetSPI/MicroBurst) ⭐ 2,427 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: A collection of scripts for assessing Microsoft Azure security
+1. [MicroBurst by NetSPI](https://github.com/NetSPI/MicroBurst) ⭐ 2,428 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: A collection of scripts for assessing Microsoft Azure security
 2. [Azure security center workflow automation](https://github.com/Azure/Azure-Security-Center/tree/master/Workflow%20automation) ⭐ 1,929 | 🐛 53 | 🌐 PowerShell | 📅 2026-07-09
 3. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 4. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
@@ -265,4 +265,4 @@ See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/ma
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
