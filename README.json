@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T14:15:01Z",
-                "open_issues": 377,
+                "open_issues": 378,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14758,
+                "stars": 14763,
                 "topics": [
                   "aws",
                   "azure",
@@ -90,10 +90,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T02:43:24Z",
-                "open_issues": 160,
+                "open_issues": 162,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8984,
+                "stars": 8985,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -128,7 +128,7 @@
                 "open_issues": 16,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7947,
+                "stars": 7948,
                 "topics": [
                   "aws",
                   "azure",
@@ -239,7 +239,7 @@
                 "open_issues": 167,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6510,
+                "stars": 6512,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -384,7 +384,7 @@
                 "open_issues": 37,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5319,
+                "stars": 5320,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -1234,7 +1234,7 @@
                 "open_issues": 61,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9341,
+                "stars": 9344,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1293,7 +1293,7 @@
                 "id": 87684006,
                 "language": "HCL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T09:02:19Z",
+                "last_commit": "2026-09-06T09:02:01Z",
                 "open_issues": 2,
                 "owner": "opszero",
                 "repo": "terraform-aws-kubespot",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:53:32.485Z",
+    "last_updated": "2026-09-06T23:53:07.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
@@ -2167,7 +2167,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-17T02:09:12Z",
-      "open_issues": 21,
+      "open_issues": 22,
       "owner": "4ndersonLin",
       "repo": "awesome-cloud-security",
       "stars": 2487,
