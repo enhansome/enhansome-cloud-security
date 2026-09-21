@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T01:46:58Z",
-                "open_issues": 377,
+                "open_issues": 373,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14838,
+                "stars": 14841,
                 "topics": [
                   "aws",
                   "azure",
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T23:03:06Z",
-                "open_issues": 168,
+                "open_issues": 171,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9014,
+                "stars": 9017,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -128,7 +128,7 @@
                 "open_issues": 20,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7957,
+                "stars": 7958,
                 "topics": [
                   "aws",
                   "azure",
@@ -170,7 +170,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7821,
+                "stars": 7822,
                 "topics": [
                   "auditing",
                   "aws",
@@ -239,7 +239,7 @@
                 "open_issues": 166,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6520,
+                "stars": 6522,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -307,7 +307,7 @@
                 "open_issues": 1745,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6066,
+                "stars": 6067,
                 "topics": [
                   "aws",
                   "azure",
@@ -370,7 +370,7 @@
                 "open_issues": 144,
                 "owner": "deepfence",
                 "repo": "ThreatMapper",
-                "stars": 5322,
+                "stars": 5323,
                 "topics": [
                   "cloud-native",
                   "cloudsecurity",
@@ -453,7 +453,7 @@
                 "open_issues": 84,
                 "owner": "Netflix",
                 "repo": "security_monkey",
-                "stars": 4370,
+                "stars": 4369,
                 "topics": [
                   "aws",
                   "aws-ec2",
@@ -544,10 +544,10 @@
                 "language": "Open Policy Agent",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T10:46:19Z",
-                "open_issues": 312,
+                "open_issues": 313,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2702,
+                "stars": 2704,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -623,7 +623,7 @@
                 "open_issues": 36,
                 "owner": "nccgroup",
                 "repo": "PMapper",
-                "stars": 1578,
+                "stars": 1579,
                 "topics": [
                   "aws",
                   "botocore",
@@ -1426,7 +1426,7 @@
                 "open_issues": 6,
                 "owner": "cyberark",
                 "repo": "SkyArk",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "admins",
                   "attacker",
@@ -1697,7 +1697,7 @@
                 "open_issues": 12,
                 "owner": "ine-labs",
                 "repo": "AWSGoat",
-                "stars": 2048,
+                "stars": 2047,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1747,7 +1747,7 @@
                 "open_issues": 0,
                 "owner": "0xsha",
                 "repo": "CloudBrute",
-                "stars": 1148,
+                "stars": 1149,
                 "topics": [
                   "amazon",
                   "bugbounty",
@@ -1899,7 +1899,7 @@
                     "open_issues": 144,
                     "owner": "deepfence",
                     "repo": "ThreatMapper",
-                    "stars": 5322,
+                    "stars": 5323,
                     "topics": [
                       "cloud-native",
                       "cloudsecurity",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:08:30.448Z",
+    "last_updated": "2026-09-21T00:15:39.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
@@ -2170,7 +2170,7 @@
       "open_issues": 24,
       "owner": "4ndersonLin",
       "repo": "awesome-cloud-security",
-      "stars": 2486,
+      "stars": 2487,
       "topics": [
         "aws",
         "aws-security",
