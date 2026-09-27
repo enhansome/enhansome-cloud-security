@@ -21,7 +21,7 @@
                 "open_issues": 382,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14864,
+                "stars": 14871,
                 "topics": [
                   "aws",
                   "azure",
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T13:28:42Z",
-                "open_issues": 183,
+                "open_issues": 181,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9028,
+                "stars": 9030,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8995,
+                "stars": 8994,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -170,7 +170,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7830,
+                "stars": 7831,
                 "topics": [
                   "auditing",
                   "aws",
@@ -235,11 +235,11 @@
                 "id": 313853293,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-26T00:37:00Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-26T04:19:46Z",
+                "open_issues": 170,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6525,
+                "stars": 6527,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -304,7 +304,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T18:38:11Z",
-                "open_issues": 1773,
+                "open_issues": 1774,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
                 "stars": 6073,
@@ -370,7 +370,7 @@
                 "open_issues": 144,
                 "owner": "deepfence",
                 "repo": "ThreatMapper",
-                "stars": 5321,
+                "stars": 5320,
                 "topics": [
                   "cloud-native",
                   "cloudsecurity",
@@ -488,7 +488,7 @@
                 "open_issues": 212,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3776,
+                "stars": 3775,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -547,7 +547,7 @@
                 "open_issues": 319,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2707,
+                "stars": 2708,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "jonrau1",
                 "repo": "ElectricEye",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "asset-management",
                   "attack-surface-management",
@@ -1234,7 +1234,7 @@
                 "open_issues": 46,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9416,
+                "stars": 9418,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1676,7 +1676,7 @@
                 "open_issues": 23,
                 "owner": "RhinoSecurityLabs",
                 "repo": "cloudgoat",
-                "stars": 3737,
+                "stars": 3738,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 144,
                     "owner": "deepfence",
                     "repo": "ThreatMapper",
-                    "stars": 5321,
+                    "stars": 5320,
                     "topics": [
                       "cloud-native",
                       "cloudsecurity",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:37:01.049Z",
+    "last_updated": "2026-09-27T00:34:55.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
