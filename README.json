@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T12:55:24Z",
-                "open_issues": 382,
+                "open_issues": 381,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14871,
+                "stars": 14882,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,11 +59,11 @@
                 "id": 224386599,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T13:28:42Z",
-                "open_issues": 181,
+                "last_commit": "2026-09-27T23:03:43Z",
+                "open_issues": 179,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9030,
+                "stars": 9033,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -198,7 +198,7 @@
                 "open_issues": 18,
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7041,
+                "stars": 7042,
                 "topics": [
                   "aws",
                   "azure",
@@ -239,7 +239,7 @@
                 "open_issues": 170,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6527,
+                "stars": 6528,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -307,7 +307,7 @@
                 "open_issues": 1774,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6073,
+                "stars": 6074,
                 "topics": [
                   "aws",
                   "azure",
@@ -343,7 +343,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5343,
+                "stars": 5346,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -488,7 +488,7 @@
                 "open_issues": 212,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3775,
+                "stars": 3774,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -547,7 +547,7 @@
                 "open_issues": 319,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2708,
+                "stars": 2709,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -1234,7 +1234,7 @@
                 "open_issues": 46,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9418,
+                "stars": 9421,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1335,7 +1335,7 @@
                 "open_issues": 26,
                 "owner": "salesforce",
                 "repo": "cloudsplaining",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "aws",
                   "aws-iam",
@@ -1676,7 +1676,7 @@
                 "open_issues": 23,
                 "owner": "RhinoSecurityLabs",
                 "repo": "cloudgoat",
-                "stars": 3738,
+                "stars": 3739,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1747,7 +1747,7 @@
                 "open_issues": 0,
                 "owner": "0xsha",
                 "repo": "CloudBrute",
-                "stars": 1149,
+                "stars": 1148,
                 "topics": [
                   "amazon",
                   "bugbounty",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:34:55.690Z",
+    "last_updated": "2026-09-28T00:44:16.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
