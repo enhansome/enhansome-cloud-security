@@ -49,13 +49,13 @@ A curated list of awesome cloud security related resources.
 
 ## Infrastructure
 
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,915 | 🐛 391 | 🌐 Python | 📅 2026-10-02: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,051 | 🐛 183 | 🌐 Python | 📅 2026-10-01: A static code analysis tool for infrastructure-as-code.
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,917 | 🐛 391 | 🌐 Python | 📅 2026-10-02: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01: A static code analysis tool for infrastructure-as-code.
 * [aws-vault](https://github.com/99designs/aws-vault) ⭐ 8,996 | 🐛 2 | 🌐 Go | 📅 2025-12-30: A vault for securely storing and accessing AWS credentials in development environments.
 * [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,971 | 🐛 27 | 🌐 Go | 📅 2026-09-29: A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,832 | 🐛 297 | 🌐 Python | 📅 2025-09-23: Multi-cloud security auditing tool.
 * [tfsec](https://github.com/liamg/tfsec) ⭐ 7,042 | 🐛 18 | 🌐 Go | 📅 2026-03-25: Static analysis powered security scanner for Terraform code.
-* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,533 | 🐛 180 | 🌐 Go | 📅 2026-10-02: Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,534 | 🐛 180 | 🌐 Go | 📅 2026-10-02: Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15: Analyze your AWS environments.
 * [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,079 | 🐛 1,772 | 🌐 Python | 📅 2026-10-01: Rules engine for cloud security, cost optimization, and governance.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,345 | 🐛 38 | 🌐 Python | 📅 2026-05-19: The AWS exploitation framework.
@@ -100,7 +100,7 @@ A curated list of awesome cloud security related resources.
 
 ## SaaS
 
-* [cloudsplaining](https://github.com/salesforce/cloudsplaining) ⭐ 2,250 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-18: An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+* [cloudsplaining](https://github.com/salesforce/cloudsplaining) ⭐ 2,250 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-03: An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 * [Policy Sentry](https://github.com/salesforce/policy_sentry) ⭐ 2,172 | 🐛 13 | 🌐 Python | 📅 2026-10-01: IAM Least Privilege Policy Generator.
 * [binaryalert](https://github.com/airbnb/binaryalert) ⭐ 1,457 | 🐛 43 | 🌐 Python | 📅 2023-12-12: Serverless S3 yara scanner.
 * [SkyArk](https://github.com/cyberark/SkyArk) ⭐ 911 | 🐛 6 | 🌐 PowerShell | 📅 2024-12-17: Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
@@ -261,7 +261,7 @@ A curated list of awesome cloud security related resources.
 
 # Contributing
 
-See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md) ⭐ 2,495 | 🐛 26 | 📅 2026-03-17
+See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
 
 ***
 

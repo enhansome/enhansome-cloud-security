@@ -21,7 +21,7 @@
                 "open_issues": 391,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14915,
+                "stars": 14917,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 183,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9051,
+                "stars": 9052,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -239,7 +239,7 @@
                 "open_issues": 180,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6533,
+                "stars": 6534,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -1331,8 +1331,8 @@
                 "id": 256772852,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T06:16:24Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-03T02:11:02Z",
+                "open_issues": 28,
                 "owner": "salesforce",
                 "repo": "cloudsplaining",
                 "stars": 2250,
@@ -2012,7 +2012,7 @@
             {
               "node_type": "item",
               "title": "Azure security center workflow automation",
-              "description": null,
+              "description": "Azure/Microsoft-Defender-for-Cloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2040,7 +2040,7 @@
             {
               "node_type": "item",
               "title": "Security response automation",
-              "description": null,
+              "description": "GoogleCloudPlatform/security-response-automation",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2065,7 +2065,7 @@
             {
               "node_type": "item",
               "title": "GKE security scenarios demo",
-              "description": null,
+              "description": "GoogleCloudPlatform/gke-security-scenarios-demo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2101,7 +2101,7 @@
             {
               "node_type": "item",
               "title": "Appsecco provides training",
-              "description": null,
+              "description": "appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "Cloud Security Research by RhinoSecurityLabs",
-              "description": null,
+              "description": "RhinoSecurityLabs/Cloud-Security-Research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:11:18.529Z",
+    "last_updated": "2026-10-03T04:36:28.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
