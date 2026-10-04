@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T12:22:52Z",
-                "open_issues": 391,
+                "last_commit": "2026-10-03T23:20:15Z",
+                "open_issues": 409,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14917,
+                "stars": 14924,
                 "topics": [
                   "aws",
                   "azure",
@@ -63,7 +63,7 @@
                 "open_issues": 183,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9052,
+                "stars": 9054,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8996,
+                "stars": 8995,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -128,7 +128,7 @@
                 "open_issues": 27,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 7971,
+                "stars": 7972,
                 "topics": [
                   "aws",
                   "azure",
@@ -170,7 +170,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7832,
+                "stars": 7833,
                 "topics": [
                   "auditing",
                   "aws",
@@ -343,7 +343,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5345,
+                "stars": 5346,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -370,7 +370,7 @@
                 "open_issues": 144,
                 "owner": "deepfence",
                 "repo": "ThreatMapper",
-                "stars": 5322,
+                "stars": 5323,
                 "topics": [
                   "cloud-native",
                   "cloudsecurity",
@@ -411,7 +411,7 @@
                 "open_issues": 0,
                 "owner": "tenable",
                 "repo": "terrascan",
-                "stars": 5214,
+                "stars": 5215,
                 "topics": [
                   "architecture",
                   "aws",
@@ -581,7 +581,7 @@
                 "open_issues": 55,
                 "owner": "matanolabs",
                 "repo": "matano",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": [
                   "alerting",
                   "apache-iceberg",
@@ -1230,11 +1230,11 @@
                 "id": 49986046,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T13:38:33Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-03T08:25:32Z",
+                "open_issues": 47,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9436,
+                "stars": 9438,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1331,8 +1331,8 @@
                 "id": 256772852,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T02:11:02Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-03T06:54:37Z",
+                "open_issues": 26,
                 "owner": "salesforce",
                 "repo": "cloudsplaining",
                 "stars": 2250,
@@ -1363,7 +1363,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:08:50Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "salesforce",
                 "repo": "policy_sentry",
                 "stars": 2172,
@@ -1676,7 +1676,7 @@
                 "open_issues": 24,
                 "owner": "RhinoSecurityLabs",
                 "repo": "cloudgoat",
-                "stars": 3743,
+                "stars": 3749,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1697,7 +1697,7 @@
                 "open_issues": 12,
                 "owner": "ine-labs",
                 "repo": "AWSGoat",
-                "stars": 2048,
+                "stars": 2052,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 144,
                     "owner": "deepfence",
                     "repo": "ThreatMapper",
-                    "stars": 5322,
+                    "stars": 5323,
                     "topics": [
                       "cloud-native",
                       "cloudsecurity",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:28.249Z",
+    "last_updated": "2026-10-04T00:36:48.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
@@ -2170,7 +2170,7 @@
       "open_issues": 26,
       "owner": "4ndersonLin",
       "repo": "awesome-cloud-security",
-      "stars": 2495,
+      "stars": 2496,
       "topics": [
         "aws",
         "aws-security",
