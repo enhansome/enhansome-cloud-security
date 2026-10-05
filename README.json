@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T23:20:15Z",
-                "open_issues": 409,
+                "open_issues": 410,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14924,
+                "stars": 14943,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,8 +59,8 @@
                 "id": 224386599,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T13:08:37Z",
-                "open_issues": 183,
+                "last_commit": "2026-10-04T13:10:50Z",
+                "open_issues": 187,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
                 "stars": 9054,
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8995,
+                "stars": 8996,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -170,7 +170,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7833,
+                "stars": 7832,
                 "topics": [
                   "auditing",
                   "aws",
@@ -198,7 +198,7 @@
                 "open_issues": 18,
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7042,
+                "stars": 7043,
                 "topics": [
                   "aws",
                   "azure",
@@ -239,7 +239,7 @@
                 "open_issues": 180,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6534,
+                "stars": 6535,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -304,7 +304,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T23:25:24Z",
-                "open_issues": 1772,
+                "open_issues": 1773,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
                 "stars": 6079,
@@ -343,7 +343,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5346,
+                "stars": 5345,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "jonrau1",
                 "repo": "ElectricEye",
-                "stars": 1048,
+                "stars": 1049,
                 "topics": [
                   "asset-management",
                   "attack-surface-management",
@@ -1234,7 +1234,7 @@
                 "open_issues": 47,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9438,
+                "stars": 9445,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1366,7 +1366,7 @@
                 "open_issues": 14,
                 "owner": "salesforce",
                 "repo": "policy_sentry",
-                "stars": 2172,
+                "stars": 2173,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -1697,7 +1697,7 @@
                 "open_issues": 12,
                 "owner": "ine-labs",
                 "repo": "AWSGoat",
-                "stars": 2052,
+                "stars": 2053,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2022,10 +2022,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-09-01T12:58:56Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1958,
+                "stars": 1959,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:36:48.650Z",
+    "last_updated": "2026-10-05T00:54:46.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
@@ -2170,7 +2170,7 @@
       "open_issues": 26,
       "owner": "4ndersonLin",
       "repo": "awesome-cloud-security",
-      "stars": 2496,
+      "stars": 2497,
       "topics": [
         "aws",
         "aws-security",
