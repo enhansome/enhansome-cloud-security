@@ -17,11 +17,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T09:14:16Z",
-                "open_issues": 464,
+                "last_commit": "2026-10-13T16:31:49Z",
+                "open_issues": 458,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15015,
+                "stars": 15022,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,11 +59,11 @@
                 "id": 224386599,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T23:03:52Z",
-                "open_issues": 194,
+                "last_commit": "2026-10-13T23:03:22Z",
+                "open_issues": 192,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9067,
+                "stars": 9068,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8999,
+                "stars": 9001,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -170,7 +170,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7846,
+                "stars": 7847,
                 "topics": [
                   "auditing",
                   "aws",
@@ -198,7 +198,7 @@
                 "open_issues": 18,
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7049,
+                "stars": 7051,
                 "topics": [
                   "aws",
                   "azure",
@@ -235,11 +235,11 @@
                 "id": 313853293,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-12T15:21:52Z",
-                "open_issues": 160,
+                "last_commit": "2026-10-13T15:46:46Z",
+                "open_issues": 157,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6542,
+                "stars": 6543,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -281,7 +281,7 @@
                 "open_issues": 211,
                 "owner": "duo-labs",
                 "repo": "cloudmapper",
-                "stars": 6287,
+                "stars": 6288,
                 "topics": [
                   "aws",
                   "cytoscape",
@@ -303,8 +303,8 @@
                 "id": 52837350,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T13:39:27Z",
-                "open_issues": 1775,
+                "last_commit": "2026-10-13T17:34:59Z",
+                "open_issues": 1766,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
                 "stars": 6085,
@@ -343,7 +343,7 @@
                 "open_issues": 38,
                 "owner": "RhinoSecurityLabs",
                 "repo": "pacu",
-                "stars": 5358,
+                "stars": 5360,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -453,7 +453,7 @@
                 "open_issues": 84,
                 "owner": "Netflix",
                 "repo": "security_monkey",
-                "stars": 4369,
+                "stars": 4370,
                 "topics": [
                   "aws",
                   "aws-ec2",
@@ -488,7 +488,7 @@
                 "open_issues": 212,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3778,
+                "stars": 3780,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -521,7 +521,7 @@
                 "open_issues": 0,
                 "owner": "Netflix",
                 "repo": "consoleme",
-                "stars": 3194,
+                "stars": 3195,
                 "topics": [
                   "aws",
                   "aws-iam",
@@ -544,10 +544,10 @@
                 "language": "Open Policy Agent",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T08:57:20Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2716,
+                "stars": 2718,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -650,7 +650,7 @@
                 "open_issues": 138,
                 "owner": "tmobile",
                 "repo": "pacbot",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "angularjs",
                   "aws",
@@ -762,11 +762,11 @@
                 "id": 307108461,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-12T16:25:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-13T18:15:08Z",
+                "open_issues": 5,
                 "owner": "projectdiscovery",
                 "repo": "cloudlist",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": [
                   "asset-management",
                   "cli",
@@ -836,7 +836,7 @@
                 "open_issues": 12,
                 "owner": "ReversecLabs",
                 "repo": "awspx",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -982,7 +982,7 @@
                 "open_issues": 4,
                 "owner": "log2timeline",
                 "repo": "dftimewolf",
-                "stars": 358,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1230,11 +1230,11 @@
                 "id": 49986046,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T11:31:41Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-13T20:52:42Z",
+                "open_issues": 43,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9476,
+                "stars": 9478,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1266,7 +1266,7 @@
                 "open_issues": 1,
                 "owner": "darkbitio",
                 "repo": "mkit",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "aks",
                   "aws",
@@ -1331,11 +1331,11 @@
                 "id": 256772852,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T06:54:37Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-13T18:19:18Z",
+                "open_issues": 32,
                 "owner": "salesforce",
                 "repo": "cloudsplaining",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": [
                   "aws",
                   "aws-iam",
@@ -1426,7 +1426,7 @@
                 "open_issues": 6,
                 "owner": "cyberark",
                 "repo": "SkyArk",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "admins",
                   "attacker",
@@ -1676,7 +1676,7 @@
                 "open_issues": 21,
                 "owner": "RhinoSecurityLabs",
                 "repo": "cloudgoat",
-                "stars": 3755,
+                "stars": 3756,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -1718,7 +1718,7 @@
                 "open_issues": 62,
                 "owner": "bridgecrewio",
                 "repo": "terragoat",
-                "stars": 1306,
+                "stars": 1307,
                 "topics": [
                   "aws-security",
                   "azure-security",
@@ -1805,7 +1805,7 @@
                 "open_issues": 2,
                 "owner": "RhinoSecurityLabs",
                 "repo": "ccat",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "amazon",
                   "aws",
@@ -1955,7 +1955,7 @@
                 "open_issues": 1,
                 "owner": "RhinoSecurityLabs",
                 "repo": "AWS-IAM-Privilege-Escalation",
-                "stars": 935,
+                "stars": 936,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2004,7 +2004,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2460,
+                "stars": 2462,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2025,7 +2025,7 @@
                 "open_issues": 56,
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1959,
+                "stars": 1960,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:02:50.380Z",
+    "last_updated": "2026-10-14T01:12:37.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
