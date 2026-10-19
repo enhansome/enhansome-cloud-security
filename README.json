@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T09:14:47Z",
-                "open_issues": 484,
+                "open_issues": 487,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15052,
+                "stars": 15058,
                 "topics": [
                   "aws",
                   "azure",
@@ -59,11 +59,11 @@
                 "id": 224386599,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T14:46:18Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-18T04:58:31Z",
+                "open_issues": 200,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9074,
+                "stars": 9075,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 9001,
+                "stars": 9000,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -198,7 +198,7 @@
                 "open_issues": 18,
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7052,
+                "stars": 7053,
                 "topics": [
                   "aws",
                   "azure",
@@ -281,7 +281,7 @@
                 "open_issues": 211,
                 "owner": "duo-labs",
                 "repo": "cloudmapper",
-                "stars": 6289,
+                "stars": 6290,
                 "topics": [
                   "aws",
                   "cytoscape",
@@ -304,7 +304,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-17T05:06:05Z",
-                "open_issues": 1765,
+                "open_issues": 1768,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
                 "stars": 6086,
@@ -411,7 +411,7 @@
                 "open_issues": 0,
                 "owner": "tenable",
                 "repo": "terrascan",
-                "stars": 5212,
+                "stars": 5213,
                 "topics": [
                   "architecture",
                   "aws",
@@ -488,7 +488,7 @@
                 "open_issues": 212,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3779,
+                "stars": 3781,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -543,8 +543,8 @@
                 "id": 278200746,
                 "language": "Open Policy Agent",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T09:49:47Z",
-                "open_issues": 315,
+                "last_commit": "2026-10-18T10:43:27Z",
+                "open_issues": 316,
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2719,
@@ -1231,10 +1231,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T11:09:43Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9487,
+                "stars": 9490,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -2004,7 +2004,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2466,
+                "stars": 2467,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:01:36.308Z",
+    "last_updated": "2026-10-19T00:12:02.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
@@ -2167,7 +2167,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-17T02:09:12Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "4ndersonLin",
       "repo": "awesome-cloud-security",
       "stars": 2506,
