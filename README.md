@@ -49,27 +49,27 @@ A curated list of awesome cloud security related resources.
 
 ## Infrastructure
 
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,214 | 🐛 480 | 🌐 Python | 📅 2026-11-10: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,148 | 🐛 220 | 🌐 Python | 📅 2026-11-10: A static code analysis tool for infrastructure-as-code.
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,226 | 🐛 482 | 🌐 Python | 📅 2026-11-11: Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,151 | 🐛 221 | 🌐 Python | 📅 2026-11-11: A static code analysis tool for infrastructure-as-code.
 * [aws-vault](https://github.com/99designs/aws-vault) ⭐ 8,999 | 🐛 2 | 🌐 Go | 📅 2025-12-30: A vault for securely storing and accessing AWS credentials in development environments.
-* [Steampipe](https://github.com/turbot/steampipe) ⭐ 8,005 | 🐛 44 | 🌐 Go | 📅 2026-11-10: A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,874 | 🐛 298 | 🌐 Python | 📅 2025-09-23: Multi-cloud security auditing tool.
+* [Steampipe](https://github.com/turbot/steampipe) ⭐ 8,006 | 🐛 39 | 🌐 Go | 📅 2026-11-12: A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,875 | 🐛 298 | 🌐 Python | 📅 2025-09-23: Multi-cloud security auditing tool.
 * [tfsec](https://github.com/liamg/tfsec) ⭐ 7,063 | 🐛 19 | 🌐 Go | 📅 2026-03-25: Static analysis powered security scanner for Terraform code.
-* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,558 | 🐛 169 | 🌐 Go | 📅 2026-11-11: Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,559 | 🐛 169 | 🌐 Go | 📅 2026-11-11: Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
 * [Cloudmapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-15: Analyze your AWS environments.
-* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,111 | 🐛 1,753 | 🌐 Python | 📅 2026-11-10: Rules engine for cloud security, cost optimization, and governance.
-* [pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,389 | 🐛 39 | 🌐 Python | 📅 2026-05-19: The AWS exploitation framework.
-* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,330 | 🐛 143 | 🌐 TypeScript | 📅 2026-06-01: Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,112 | 🐛 1,749 | 🌐 Python | 📅 2026-11-11: Rules engine for cloud security, cost optimization, and governance.
+* [pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,392 | 🐛 39 | 🌐 Python | 📅 2026-05-19: The AWS exploitation framework.
+* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,331 | 🐛 143 | 🌐 TypeScript | 📅 2026-06-01: Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [Security Monkey](https://github.com/Netflix/security_monkey) ⚠️ Archived: Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit) ⭐ 3,790 | 🐛 212 | 🌐 JavaScript | 📅 2026-09-22: Cloud security configuration checks.
 * [consoleme](https://github.com/Netflix/consoleme) ⚠️ Archived: A Central Control Plane for AWS Permissions and Access
-* [kics](https://github.com/Checkmarx/kics) ⭐ 2,733 | 🐛 330 | 🌐 Open Policy Agent | 📅 2026-11-10: Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
+* [kics](https://github.com/Checkmarx/kics) ⭐ 2,736 | 🐛 330 | 🌐 Open Policy Agent | 📅 2026-11-10: Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
 * [Matano](https://github.com/matanolabs/matano) ⭐ 1,708 | 🐛 55 | 🌐 Rust | 📅 2025-01-08: Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [PMapper](https://github.com/nccgroup/PMapper) ⭐ 1,591 | 🐛 36 | 🌐 Python | 📅 2024-08-02: A tool for quickly evaluating IAM permissions in AWS.
 * [pacbot](https://github.com/tmobile/pacbot) ⭐ 1,310 | 🐛 138 | 🌐 Java | 📅 2022-12-08: Policy as Code Bot.
 * [Forseti security](https://github.com/forseti-security/forseti-security) ⚠️ Archived: GCP inventory monitoring and policy enforcement tool.
-* [aws\_pwn](https://github.com/dagrz/aws_pwn) ⭐ 1,225 | 🐛 3 | 🌐 Python | 📅 2023-08-30: A collection of AWS penetration testing junk
+* [aws\_pwn](https://github.com/dagrz/aws_pwn) ⭐ 1,226 | 🐛 3 | 🌐 Python | 📅 2023-08-30: A collection of AWS penetration testing junk
 * [cs suite](https://github.com/SecurityFTW/cs-suite) ⭐ 1,172 | 🐛 41 | 🌐 Shell | 📅 2022-12-08: Tool for auditing the security posture of AWS/GCP/Azure.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist) ⭐ 1,059 | 🐛 0 | 🌐 Go | 📅 2026-11-09: Listing Assets from multiple Cloud Providers.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye) ⭐ 1,048 | 🐛 14 | 🌐 Python | 📅 2026-02-09: Continuously monitor AWS services for configurations.
@@ -83,7 +83,7 @@ A curated list of awesome cloud security related resources.
 * [Smogcloud](https://github.com/BishopFox/smogcloud) ⭐ 351 | 🐛 2 | 🌐 Go | 📅 2020-07-20: Find cloud assets that no one wants exposed.
 * [aws\_ir](https://github.com/ThreatResponse/aws_ir) ⭐ 342 | 🐛 14 | 🌐 Python | 📅 2021-07-23: Python installable command line utility for mitigation of instance and key compromises.
 * [Cloud-Katana](https://github.com/Azure/Cloud-Katana) ⚠️ Archived: Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
-* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 256 | 🐛 19 | 🌐 TypeScript | 📅 2025-11-17: Deploy, update, and stage your WAFs while managing them centrally via FMS.
+* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 19 | 🌐 TypeScript | 📅 2025-11-17: Deploy, update, and stage your WAFs while managing them centrally via FMS.
 * [Cloudmarker](https://github.com/cloudmarker/cloudmarker) ⚠️ Archived: A cloud monitoring tool and framework.
 * [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper) ⭐ 188 | 🐛 0 | 🌐 Python | 📅 2024-04-17: A platform designed to manage Cloud Security Operations.
 * [Metabadger](https://github.com/salesforce/metabadger) ⚠️ Archived: Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
@@ -93,7 +93,7 @@ A curated list of awesome cloud security related resources.
 
 ## Container
 
-* [Falco](https://github.com/falcosecurity/falco) ⭐ 9,569 | 🐛 60 | 🌐 C++ | 📅 2026-11-09: Container runtime security.
+* [Falco](https://github.com/falcosecurity/falco) ⭐ 9,574 | 🐛 60 | 🌐 C++ | 📅 2026-11-09: Container runtime security.
 * [mkit](https://github.com/darkbitio/mkit) ⚠️ Archived: Managed kubernetes inspection tool.
 * [auditkube](https://github.com/opszero/auditkube) ⭐ 118 | 🐛 2 | 🌐 HCL | 📅 2026-10-26: Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
@@ -101,7 +101,7 @@ A curated list of awesome cloud security related resources.
 ## SaaS
 
 * [cloudsplaining](https://github.com/salesforce/cloudsplaining) ⭐ 2,260 | 🐛 32 | 🌐 JavaScript | 📅 2026-11-04: An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-* [Policy Sentry](https://github.com/salesforce/policy_sentry) ⭐ 2,176 | 🐛 7 | 🌐 Python | 📅 2026-11-10: IAM Least Privilege Policy Generator.
+* [Policy Sentry](https://github.com/salesforce/policy_sentry) ⭐ 2,175 | 🐛 7 | 🌐 Python | 📅 2026-11-10: IAM Least Privilege Policy Generator.
 * [binaryalert](https://github.com/airbnb/binaryalert) ⭐ 1,455 | 🐛 43 | 🌐 Python | 📅 2023-12-12: Serverless S3 yara scanner.
 * [SkyArk](https://github.com/cyberark/SkyArk) ⭐ 913 | 🐛 6 | 🌐 PowerShell | 📅 2024-12-17: Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) ⭐ 575 | 🐛 7 | 🌐 Python | 📅 2023-05-26: A script to enumerate Google Storage buckets.
@@ -129,7 +129,7 @@ A curated list of awesome cloud security related resources.
 ## Native tools
 
 * AWS
-  * [ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,330 | 🐛 143 | 🌐 TypeScript | 📅 2026-06-01: Identify vulnerabilities in running containers, images, hosts and repositories.
+  * [ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,331 | 🐛 143 | 🌐 TypeScript | 📅 2026-06-01: Identify vulnerabilities in running containers, images, hosts and repositories.
   * [Artifact](https://aws.amazon.com/artifact/): Compliance report selfservice.
   * [Audit manager](https://aws.amazon.com/audit-manager/): Continuously audit for AWS usage.
   * [Certificate Manager](https://aws.amazon.com/certificate-manager/): Private CA and certificate management service.
@@ -265,4 +265,4 @@ See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/ma
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
