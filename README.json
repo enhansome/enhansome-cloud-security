@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T12:58:38Z",
-                "open_issues": 495,
+                "open_issues": 511,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15295,
+                "stars": 15301,
                 "topics": [
                   "aws",
                   "azure",
@@ -60,7 +60,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T08:14:23Z",
-                "open_issues": 237,
+                "open_issues": 242,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
                 "stars": 9165,
@@ -98,7 +98,7 @@
                 "open_issues": 2,
                 "owner": "99designs",
                 "repo": "aws-vault",
-                "stars": 8996,
+                "stars": 8997,
                 "topics": [
                   "aws",
                   "aws-vault",
@@ -124,11 +124,11 @@
                 "id": 330405184,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T15:31:15Z",
+                "last_commit": "2026-11-22T00:17:10Z",
                 "open_issues": 32,
                 "owner": "turbot",
                 "repo": "steampipe",
-                "stars": 8020,
+                "stars": 8019,
                 "topics": [
                   "aws",
                   "azure",
@@ -198,7 +198,7 @@
                 "open_issues": 19,
                 "owner": "aquasecurity",
                 "repo": "tfsec",
-                "stars": 7059,
+                "stars": 7058,
                 "topics": [
                   "aws",
                   "azure",
@@ -239,7 +239,7 @@
                 "open_issues": 170,
                 "owner": "cloudquery",
                 "repo": "cloudquery",
-                "stars": 6560,
+                "stars": 6561,
                 "topics": [
                   "airbyte",
                   "attack-surface-management",
@@ -304,10 +304,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-17T19:41:17Z",
-                "open_issues": 1768,
+                "open_issues": 1770,
                 "owner": "cloud-custodian",
                 "repo": "cloud-custodian",
-                "stars": 6116,
+                "stars": 6117,
                 "topics": [
                   "aws",
                   "azure",
@@ -488,7 +488,7 @@
                 "open_issues": 214,
                 "owner": "aquasecurity",
                 "repo": "cloudsploit",
-                "stars": 3788,
+                "stars": 3789,
                 "topics": [
                   "alibaba",
                   "aqua",
@@ -547,7 +547,7 @@
                 "open_issues": 337,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2747,
+                "stars": 2750,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -762,7 +762,7 @@
                 "id": 307108461,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-17T10:19:45Z",
+                "last_commit": "2026-11-21T17:46:44Z",
                 "open_issues": 0,
                 "owner": "projectdiscovery",
                 "repo": "cloudlist",
@@ -1078,7 +1078,7 @@
                 "open_issues": 19,
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
-                "stars": 256,
+                "stars": 257,
                 "topics": [
                   "amazon-web-services",
                   "aws",
@@ -1113,7 +1113,7 @@
                 "open_issues": 13,
                 "owner": "cloudmarker",
                 "repo": "cloudmarker",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "azure",
                   "cloud",
@@ -1234,7 +1234,7 @@
                 "open_issues": 56,
                 "owner": "falcosecurity",
                 "repo": "falco",
-                "stars": 9593,
+                "stars": 9595,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1845,7 +1845,7 @@
                 "open_issues": 9,
                 "owner": "ReversecLabs",
                 "repo": "leonidas",
-                "stars": 618,
+                "stars": 619,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:25.391Z"
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:11:48.669Z",
+    "last_updated": "2026-11-22T02:12:23.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ Awesome Cloud Security Resources ⚔️",
